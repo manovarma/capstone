@@ -1,2 +1,2 @@
 # capstone
-its markdown for the project
+Applied Data Science Capstone Project
